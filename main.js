@@ -31,6 +31,7 @@ const tablaMet = () => {
             <p class="row">tabla 2</p>
             <p class="row">tabla 3</p>
             <p class="">Hola</p>
+            <p class="">Mundo</p>
             </div>
         </div>
         `
